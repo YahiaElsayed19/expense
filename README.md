@@ -1,6 +1,6 @@
 Expense Tracker
 
-expense-tracker.yahia.vercel.app
+https://expense-tracker.yahia.vercel.app
 
 I built it using:
 
