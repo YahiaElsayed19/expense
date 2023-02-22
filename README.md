@@ -1,6 +1,6 @@
 # Expense Tracker
 
-It's a complete expense tracker web application
+### It's a complete expense tracker web application
 
 ### built using:
 
@@ -9,4 +9,4 @@ It's a complete expense tracker web application
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
 
-You can try it from [here](https://expense-tracker.yahia.vercel.app/)
+### You can try it from [here](https://expense-tracker.yahia.vercel.app/)
